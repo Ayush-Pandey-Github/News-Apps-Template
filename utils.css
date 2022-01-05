@@ -1,0 +1,18 @@
+.max-width-1{
+	max-width: 80vw;
+}
+.max-width-2{
+	max-width: 60vw;
+}
+.m-auto{
+	margin: auto;
+}
+.form-input{
+	padding: 0px 5px;
+	font-size: 16px;
+	border: 2px solid black;
+	border-radius: 4px;
+	margin: 0px 4px;
+	font-size: 16px;
+	font-family: var(--font-1);
+}
